@@ -1,0 +1,11 @@
+1. Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables: Es una forma de almacenar un dato, y asociarlo a una palabra clave. Ej: var nombre = 'Gabriel'
+
+ * Strings: Son "hilos" que contienen datos o información en forma de texto. Ej: "hola"
+
+ * Funciones (argumentos, `return`): Son objetos invocables, que facilitan y ayudan a la claridad del código. Funcionan en base a argumentos modificables.
+
+ * Declaraciones `if`: Se usan para hacer loops, o bucles, devolviendo resultados booleandos.
+
+ * Valores booleanos (`true`, `false`): A través del uso de operadores de comparación (>, <, ===, etc.), devuelven como respuesta "true", o "false".
