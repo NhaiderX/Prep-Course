@@ -1,0 +1,14 @@
+escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for` for es una palabra clave asignada a un tipo de función que sirve para crear bucles. Para que esta función funcione son necesarios 3 argumentos. Primero, creación y asignación de valor de una variable (por ejemplo {let i = 0}), segundo una condición (ej. {i < 10}) y por último, una incrementación de nuestra variable (ej. {i++}).
+
+En este ejemplo, establecimos nuestra variable "i" en 0, el ciclo se ejecutará y cada vez que llegue al final, aumentará el contador en uno. El bucle `for` evaluará la expresión condicional. Si es `true`, se ejecutará nuevamente, si es `false` dejará de funcionar.
+
+
+OPERADORES LÓGICOS
+
+* `&&` : El operador Lógico "AND" se expresa como {&&} evaluará más de una expresion y en caso de que una de ellas sea falsa, devolvera como valor un "false". Sólo devolverá "true" cuando todas las expresiones sean verdaderas.
+
+`||` : El operador lógico "OR" se expresa como {||}, evaluará más de una expresión, y devolverá "true" cuando al menos una de las expresiones evaluadas sea verdadera. En caso de que todas sean falsas, devolverá "false".
+
+`!` : El operador lógico "NOT" se expresa como un {!}, y devolverá un valor booleando ("true" o "false") opuesto al recibido.
