@@ -1,4 +1,4 @@
-escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+1. Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
 * `for` for es una palabra clave asignada a un tipo de función que sirve para crear bucles. Para que esta función funcione son necesarios 3 argumentos. Primero, creación y asignación de valor de una variable (por ejemplo {let i = 0}), segundo una condición (ej. {i < 10}) y por último, una incrementación de nuestra variable (ej. {i++}).
 
