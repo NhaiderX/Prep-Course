@@ -1,0 +1,28 @@
+1. Escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+
+	* Objetos:
+    Es una forma diferente de crear matrices, similar a los array, pero con indices más intuitivos que los indices numéricos de un array.
+
+	* Propiedades:
+    Son palabras clave (tipo variables) a las que podemos asignarles valores. Funcionan además cómo sustituto"
+    de los índices numéricos de los arrays.
+
+	* Métodos:
+    Es la forma en que se denomnan a las funciones creadas dentro de un objeto. Funcionan y sirrven de ejemplo métodos como ".push" o ".legnth".
+
+	* Bucle `for…in`:
+    Es una función que nos permite iterar sobre cada par clave-valor dentro de un objeto. 
+	Por ejemplo:
+	for (let palabraClave in objeto) {
+		return palabraClave;			Itera por cada palabraClave dentro del objeto.
+		return objeto[palabraClave];	Itera por cada valor asociado a cada palabraClave.
+	}
+	
+	* Notación de puntos vs notación de corchetes:
+		Notación de cochetes (bracket notation): Funciona de forma similar a la bracket notation de los arrays, salvo que en este caso
+		las propiedades son strings en vez de números. La bracket notation permite el acceso a variables. 
+		Ej: Usuario[Nombre] = Gabriel	var i = 23	Usuario[i] = 23
+		
+		Notación de puntos (dot notation): Es una forma mucho más simple y práctica de acceder a las propiedades de un objeto.
+		La dot notation no permite el acceso a variables. 
+		Ej: Usuario.Nombre = Gabriel var i = 23 Usuario.i = undefined
